@@ -1,0 +1,17 @@
+{
+    "EnterTestContactInSeachBox"			:		"TestContact",
+    "ParentPassword"						:		"123456",
+    "ParentInvaildUsername"					: 		"1111111111",
+    "ParentInvalidPassword"					: 		"11111",
+    "SchoolInvalidUsername"					: 		"11111111",
+    "SchoolInvalidPassword"					: 		"11111",
+    "NameOfUserOnWebListOverlay"			: 		"grpTalk",
+    "moblileNumberOfUserOnWebListOverlay"  	: 		"9550866282",
+    "EnterTestInsearchAndSelectMemberField"	: 		"test",
+    "enterTestContact1InSearchBox"			: 		"TestContact1",
+    "enterTestContact2InSearchBox"			: 		"TestContact2",
+    "enterMaxMemberLimitInEditSubAccount"	: 		"3",
+    "userNameOnEditProfileOverlay"			:		"Ravi Kumar" ,
+    "enterTestContactInSearchBox"			:		"TestContact"
+    "AddContactInOnGoingCall"				:		"8634503016"
+}

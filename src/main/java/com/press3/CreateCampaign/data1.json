@@ -1,0 +1,33 @@
+[{
+	
+	"displayName" : "pri",
+	"FirstName"  : "koushik",
+	"LastName" : "naidu",
+	"mobile" : "8989898989",
+	"email": "kowshik1@gmail.com",
+	"password" : "Koushik@1"
+	
+
+},
+{
+	
+	"displayName" : "kou",
+	"FirstName"  : "koushik",
+	"LastName" : "naidu",
+	"mobile" : "8989898988",
+	"email": "kowshik2@gmail.com",
+	"password" : "Koushik@1"
+	
+
+},
+{
+	
+	"displayName" : "pom",
+	"FirstName"  : "koushik",
+	"LastName" : "naidu",
+	"mobile" : "8989898987",
+	"email": "kowshik3@gmail.com",
+	"password" : "Koushik@1"
+	
+
+}]

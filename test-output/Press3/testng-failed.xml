@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Press3]">
+  <test thread-count="5" name="CreateAgent(failed)">
+    <classes>
+      <class name="com.press3.createAgent.CreateAgent">
+        <methods>
+          <include name="beforeTestMethod"/>
+          <include name="agentlogin"/>
+        </methods>
+      </class> <!-- com.press3.createAgent.CreateAgent -->
+    </classes>
+  </test> <!-- CreateAgent(failed) -->
+</suite> <!-- Failed suite [Press3] -->

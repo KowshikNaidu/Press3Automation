@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Press3">
+
+ <!--  
+<test name = "campaign">
+  <classes>
+  <class name = "com.press3.CreateCampaign.CreateCampaign">
+  <methods>
+  	<include name = "CreateCampaign" />
+  	<exclude name = "VoiceBroadcast" />
+  	<exclude name = "IvrSurvey" />
+  	<exclude name = "IvrConnect" />
+  </methods>
+ </class>
+  </classes>
+  </test>
+   -->
+  
+  <!--
+  <test name = "CreateAgent" >
+  <classes>
+  <class name = "com.press3.createAgent.CreateAgent" >
+  <methods>
+  <include name = "CreateAgent" />
+  <include name = "agentlogin" />
+  </methods>
+  </class>
+  </classes>
+  </test>
+   -->
+  
+  
+  <test name = "CreateIVR" >
+  <classes>
+  <class name = "com.press3.CreateIVR.CreateIVR" >
+  <methods>
+  <exclude name = "CreateIVR" />
+  <include name = "Agntlogin" />
+  </methods>
+  </class>
+  </classes>
+  </test>
+ 
+</suite>
